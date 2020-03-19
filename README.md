@@ -1,2 +1,5 @@
 # Meme-Gen-React.js
-Meme generator created as final project for Scrimba React.js course
+Capstone project for React.js course found at this link: 
+
+https://scrimba.com/g/glearnreact
+
